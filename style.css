@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bar{
+    background-color: #2A6F97;
+}
+.banner{
+    background-color: #2C7DA0;
+}
+.about{
+    background-color: #468FAF;
+}
+.experience{
+    background-color: #61A5C2;
+}
+.education{
+    background-color: #89C2D9;
+}
+.skills{
+    background-color: #A9D6E5;
+}
+.projects{
+    background-color: #cce7eb;
+}
